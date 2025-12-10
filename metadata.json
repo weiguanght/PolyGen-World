@@ -1,0 +1,5 @@
+{
+  "name": "PolyWorld Gen",
+  "description": "A 2.5D low-poly terrain generator using Perlin noise. Features multiple biomes, interactive camera controls, and procedural map generation.",
+  "requestFramePermissions": []
+}
